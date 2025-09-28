@@ -37,14 +37,17 @@ This project involves the following steps:
 - Machine Learning: Decision Tree Classifier  
 - Visualization: Plotly  
 
+## How to Use This Project
+1. **Clone the repository:**  
+```bash
+git clone https://github.com/Nisba833/-Online-Payments-Fraud-Detection.git
+2.Open the Jupyter Notebook:
+Online_Payments_Fraud_Detection.ipynb
+3.Run each cell to see the analysis, visualizations, and machine learning model in action.
+
 ## Results
-- The Decision Tree Classifier successfully predicts fraudulent transactions.  
-- Visualizations provide insights into risky transaction types.  
+- The Decision Tree Classifier successfully predicts fraudulent transactions.
+- Visualizations provide insights into risky transaction types.
 
-## GitHub Repository
-Check out the full project here: [https://github.com/Nisba833/-Online-Payments-Fraud-Detection](https://github.com/Nisba833/-Online-Payments-Fraud-Detection) 🔗
-
-## Contact
-- **Email:** nisbamasutimani@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/nisba-masutimani/](https://www.linkedin.com/in/nisba-masutimani/)
-
+## GitHub Repository :https://github.com/Nisba833/-Online-Payments-Fraud-Detection
+ 
