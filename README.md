@@ -3,9 +3,7 @@
 ## Problem Statement
 Online payment systems are convenient but vulnerable to fraud, especially in credit card transactions. Detecting fraudulent transactions is crucial for financial institutions to protect their customers and reduce losses.
 
-The goal of this project is to develop a **machine learning model** that can classify online transactions as **fraudulent** or **non-fraudulent** using historical transaction data.
-
----
+The goal of this project is to develop a machine learning model that can classify online transactions as fraudulent or non-fraudulent using historical transaction data.
 
 ## Dataset
 The dataset is sourced from **Kaggle** and contains historical transactions, including fraudulent and genuine ones.
@@ -23,19 +21,15 @@ The dataset is sourced from **Kaggle** and contains historical transactions, inc
 - `isFraud` → Fraud indicator (0 = No Fraud, 1 = Fraud)  
 - `isFlaggedFraud` → Flagged by the system (0/1)  
 
----
-
 ## Project Overview
 This project involves the following steps:
 
-1. **Data Loading and Cleaning** – Read CSV, check for nulls, fix headers  
-2. **Exploratory Data Analysis (EDA)** – Visualize transaction types and distributions  
-3. **Data Transformation** – Map categorical columns to numeric, convert labels  
-4. **Correlation Analysis** – Identify features most correlated with fraud  
-5. **Model Building** – Decision Tree Classifier for fraud prediction  
-6. **Prediction** – Test model on sample transactions  
-
----
+- **Data Loading and Cleaning** – Read CSV, check for nulls, fix headers  
+- **Exploratory Data Analysis (EDA)** – Visualize transaction types and distributions  
+- **Data Transformation** – Map categorical columns to numeric, convert labels  
+- **Correlation Analysis** – Identify features most correlated with fraud  
+- **Model Building** – Decision Tree Classifier for fraud prediction  
+- **Prediction** – Test model on sample transactions  
 
 ## Tools & Technologies
 - Python  
@@ -43,20 +37,14 @@ This project involves the following steps:
 - Machine Learning: Decision Tree Classifier  
 - Visualization: Plotly  
 
----
-
 ## Results
 - The Decision Tree Classifier successfully predicts fraudulent transactions.  
 - Visualizations provide insights into risky transaction types.  
 
----
-
 ## GitHub Repository
-Check out the full project here: https://github.com/Nisba833/-Online-Payments-Fraud-Detection 🔗  
-
----
+Check out the full project here: [https://github.com/Nisba833/-Online-Payments-Fraud-Detection](https://github.com/Nisba833/-Online-Payments-Fraud-Detection) 🔗
 
 ## Contact
 - **Email:** nisbamasutimani@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/nisba-masutimani/
+- **LinkedIn:** [https://www.linkedin.com/in/nisba-masutimani/](https://www.linkedin.com/in/nisba-masutimani/)
 
